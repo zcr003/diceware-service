@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.dicewareservice;
+package edu.cnm.deepdive.dicewareservice.dicewareservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
